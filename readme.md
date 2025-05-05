@@ -4,8 +4,7 @@
 
 This is a basic demo, using the hardware accelerated SDL3 2D rendering API, for the Odin programming language
 
-See: https://odin-lang.org
-See: https://wiki.libsdl.org/SDL3/FrontPage
+See: https://odin-lang.org and https://wiki.libsdl.org/SDL3/FrontPage
 
 ### Requirements
 
